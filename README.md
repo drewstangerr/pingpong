@@ -6,7 +6,7 @@
 
 ## Description
 
-_{This web application takes a number from a user and returns a range of numbers from 1 to the chosen number with the following exceptions:_
+_This web application takes a number from a user and returns a range of numbers from 1 to the chosen number with the following exceptions:_
 
 ## Specs
 | Behavior        | Input           | Outcome  |
@@ -29,11 +29,11 @@ Drew Stanger
 drew.stanger@icloud.com
 
 ## Technologies Used
-*_HTML_
-*_Bootstrap_
-*_CSS_
-*_Javascript_
-*_jQuery_
+_HTML_
+_Bootstrap_
+_CSS_
+_Javascript_
+_jQuery_
 
 ### License
 
