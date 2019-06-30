@@ -21,7 +21,7 @@ _This web application takes a number from a user and returns a range of numbers 
 * _Clone this repository_
 * _Open HTML file_
 * _Open web browser_
-* _GitHub Pages link:https://github.com/drewstangerr/pingpong
+* GitHub Pages link:https://github.com/drewstangerr/pingpong
 
 ## Support and contact details
 
